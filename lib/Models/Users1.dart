@@ -1,7 +1,6 @@
 
-// Custom User Class
 import 'package:flutter/material.dart';
-
+//Custom User Class
 class User1{
 
   late final  String UID;
